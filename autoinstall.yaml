@@ -1,4 +1,9 @@
 autoinstall:
+  identity:
+    realname: 'ubuntu test'
+    username: doug
+    password: '$6$0.ePZ1oFQWdf1m7r$f8Khy6LFX4azD4IM50fs9M7CFW6OqJgWC1yVmFrpy9pcxZd/ZM8jzAAACMpe02vIqN8yCtnlVWvg4LGV2cRhC.'
+    hostname: ubuntu
   apt:
     preserve_sources_list: false
     mirror-selection:
