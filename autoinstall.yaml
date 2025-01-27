@@ -1,6 +1,6 @@
 identity:
   hostname: ubuntu-desktop
-  password: '<password hash>'
+  password: $6$0.ePZ1oFQWdf1m7r$f8Khy6LFX4azD4IM50fs9M7CFW6OqJgWC1yVmFrpy9pcxZd/ZM8jzAAACMpe02vIqN8yCtnlVWvg4LGV2cRhC.
   # A password hash is needed. `mkpasswd --method=SHA-512` can help.
   # mkpasswd can be found in the package 'whois'
   realname: Owner
